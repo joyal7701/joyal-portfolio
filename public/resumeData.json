@@ -1,0 +1,205 @@
+{
+  "main": {
+    "name": "Joyal Shah here",
+    "occupation": "MERN | React Native | Developer",
+    "description": "Front-End | UI | Back-End Developer by Day, Blogger by Night",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Joyal. Currently, I'm doing a Bachelor of Engineering at L.J. Institute of Engineering & Technology affiliated with Gujarat Technological University (GTU). || Optimistic, Proactive, Quick-learner, and seeking opportunities to learn new Tools & Technologies. The one who didn't get away! ",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "joyalshah07@gmail.com",
+    "phone": "+919913414802",
+    "address": {
+      "street": "B-401 Divine Life Avenue",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "zip": "380015"
+    },
+    "website": "https://www.youtube.com/c/ITBuddies",
+    "resumedownload": "https://joyal7701.github.io/assets/Joyal's%20Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joyal-shah-7701/",
+        "className": "fa fa-linkedin"
+      },
+
+      {
+        "name": "github",
+        "url": "http://github.com/joyal7701",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/c/ITBuddies",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/joyal7701/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://www.twitter.com/joyal_0707",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here I create a short write-up of my skills to show off to employers.",
+    "education": [
+      {
+        "collage": "L.J. Institute of Engineering & Technology",
+        "degree": "Bachelor of Engineering",
+        "graduated": "May 2022",
+        "description": "Graduated with 9.2 CPI"
+      },
+      {
+        "School": "Shraddha VidyaMandir",
+        "degree": "HSC",
+        "graduated": "March 2018",
+        "description": "Passed with 86%"
+      },
+      {
+        "School": "R.H. Kapadia",
+        "degree": "SSC",
+        "graduated": "March 2016",
+        "description": "Passed with 92%"
+      }
+    ],
+    "work": [
+      {
+        "company": "IT Buddies",
+        "title": "Owner && React Specialist",
+        "years": "July 2020 - Present",
+        "description": "Programming Like Never Before. Introducing new ideas, original and creative in thinking."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "Express.js",
+        "level": "75%"
+      },
+      {
+        "name": "Redux",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "Flask",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "65%"
+      },
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "C",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SignalClone",
+        "category": "Signal App using React Native && Firebase",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLREeG149cP4jpCtvX9erEaE"
+      },
+      {
+        "title": "NetflixClone",
+        "category": "Netflix Application using React, Redux && Firebase",
+        "image": "joyal1.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLSrI2DrfhCeZpQdXpUzbtTT"
+      },
+      {
+        "title": "ECommerce-Web-API",
+        "category": "The Complete Backend E-Commerce Web API Using Node.js With Express & MongoDB",
+        "image": "Intro.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLThJ2Nt2vZhQuj1G4rGVQPE"
+      },
+      {
+        "title": "Real Time Chat Application Server",
+        "category": "Chat App in Node.js using Express and Socket.io",
+        "image": "facebook-clone.png",
+        "url": "https://www.youtube.com/watch?v=JzgoWnbdjbQ"
+      },
+      {
+        "title": "User Login System with Node.js",
+        "category": "the process or action of verifying the identity of a user or process",
+        "image": "airbnb-clone.jpeg",
+        "url": "https://www.youtube.com/watch?v=_vnn2oKjBfE"
+      },
+      {
+        "title": "Movies App With React And Redux",
+        "category": "MoviesApp Using API,Bootstrap and Routing",
+        "image": "joyal.jpg",
+        "url": "https://www.youtube.com/watch?v=oZiBp-QKeYA"
+      },
+      {
+        "title": "Meme-Generator Application Using API",
+        "category": "Create Custom Meme By Your Own Using React Step-by-Step ",
+        "image": "mypost.jpg",
+        "url": "https://www.youtube.com/watch?v=RK_GOT6foZA&t=9s"
+      },
+      {
+        "title": "Recipe Finder App",
+        "category": "Recipe Application built with API (ReactJs, Redux, Bootstrap, Router)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=xpyEjHc6Rs0"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here I write some nice things that someone has said about me.."
+      },
+
+      {
+        "text": "Joyal is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend.",
+        "user": "Kush Jani"
+      },
+      {
+        "text": "Learning with Joyal has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Dirgh Patel"
+      }
+    ]
+  }
+}
