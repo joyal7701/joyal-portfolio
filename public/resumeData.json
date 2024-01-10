@@ -1,0 +1,210 @@
+{
+  "main": {
+    "name": "Joyal Shah",
+    "occupation": "MERN Stack | React Native | Developer",
+    "description": "Full-Stack Developer by Day & YouTuber by Night",
+    "image": "joy.jpg",
+    "bio": "Passionate and results-driven Full Stack Developer with a mastery in developing single-page web and mobile applications. I hold a Master's degree in Applied Computer Science from Concordia University and bring valuable hands-on experience from my role as a Full Stack Developer at Sanatan Tech Innovations. Adept at crafting dynamic responsive web applications, optimizing performance, and utilizing open-source UI components. As a content creator, my YouTube channel 'IT buddies' has garnered over 100k views, showcasing my commitment to knowledge sharing. Fluent in English, French, Hindi, and Gujarati, I thrive in collaborative environments and am eager to contribute to innovative projects.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "joyalshah07@gmail.com",
+    "phone": "+14503301386",
+    "address": {
+      "street": "Toronto",
+      "city": "Ontario",
+      "state": "Canada",
+      "zip": ""
+    },
+    "website": "https://www.youtube.com/c/ITBuddies",
+    "resumedownload": "https://joyal7701.github.io/assets/Joyal's%20Resume.pdf",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/joyal7701/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/joyal7701",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/c/ITBuddies",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/joyal7701",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/joyal7701",
+        "className": "fa fa-facebook"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here I create a short write-up of my skills to show off to employers.",
+    "education": [
+      {
+        "school": "Concordia University",
+        "degree": "Master of Applied Computer Science",
+        "graduated": "09/2022 - 12/2023",
+        "description": ""
+      },
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Bachelors in Computer Engineering",
+        "graduated": "07/2018 - 05/2022",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Sanatan Tech Innovations Pvt Ltd",
+        "title": "Full Stack Developer",
+        "years": "January 2021 - July 2022",
+        "description": "Developed web applications with precision, utilizing React and Vue.js to create a dynamic and responsive user interface. Honed expertise in front-end web development, sharpening skills in TypeScript and various JavaScript frameworks. Mastered server-side development with Node.js for robust functionality and employed Express for streamlined web server management. Managed and optimized data interactions with the MySQL database."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "95%"
+      },
+      {
+        "name": "Next.js",
+        "level": "80%"
+      },
+      {
+        "name": "Vue.js",
+        "level": "100%"
+      },
+      {
+        "name": "React Native",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "100%"
+      },
+      {
+        "name": "Express.js",
+        "level": "100%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      },
+      {
+        "name": "MySQL",
+        "level": "100%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "70%"
+      },
+      {
+        "name": "Docker",
+        "level": "65%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "C",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "SignalClone",
+        "category": "Signal App using React Native & Firebase",
+        "image": "netflix-clone.jpeg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLREeG149cP4jpCtvX9erEaE"
+      },
+      {
+        "title": "NetflixClone",
+        "category": "Netflix Application using React, Redux & Firebase",
+        "image": "joyal1.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLSrI2DrfhCeZpQdXpUzbtTT"
+      },
+      {
+        "title": "ECommerce-Web-API",
+        "category": "The Complete Backend E-Commerce Web API Using Node.js With Express & MongoDB",
+        "image": "Intro.jpg",
+        "url": "https://www.youtube.com/playlist?list=PLE5Co9eD-NLThJ2Nt2vZhQuj1G4rGVQPE"
+      },
+      {
+        "title": "Chatting App",
+        "category": "Seamless Real-time Chat Application using Next.js",
+        "image": "MyProject.png",
+        "url": "https://www.youtube.com/watch?v=JzgoWnbdjbQ"
+      },
+      {
+        "title": "Full Stack App",
+        "category": "Full Stack Web Application Using Vue.Js, Express Js and MySQL",
+        "image": "Mypro.png",
+        "url": "https://www.youtube.com/watch?v=8LyZH1NXzFA&list=PLE5Co9eD-NLQAxcrVbJV-AilUMKX-hBJV"
+      },
+      {
+        "title": "Movies App With React And Redux",
+        "category": "MoviesApp Using API,Bootstrap and Routing",
+        "image": "joyal.jpg",
+        "url": "https://www.youtube.com/watch?v=oZiBp-QKeYA"
+      },
+      {
+        "title": "Meme-Generator Application Using API",
+        "category": "Create Custom Meme By Your Own Using React Step-by-Step ",
+        "image": "mypost.jpg",
+        "url": "https://www.youtube.com/watch?v=RK_GOT6foZA&t=9s"
+      },
+      {
+        "title": "Recipe Finder App",
+        "category": "Recipe Application built with API (ReactJs, Redux, Bootstrap, Router)",
+        "image": "whatsapp-mern.jpeg",
+        "url": "https://www.youtube.com/watch?v=xpyEjHc6Rs0"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here I write some nice things that someone has said about me.."
+      },
+
+      {
+        "text": "Joyal worked at Sanatan Tech Innovations Pvt Ltd for 6 months as part of an internship during his 4th year of engineering. He is an exceptional developer who possesses all the skills one would want in an excellent Full Stack Developer. He is proactive, solutions-oriented, responsible, and technically sound. Not only were his technical skills robust, but he also shined when it came to accuracy. His work is always outstanding, and he always goes the extra mile to ensure the company standards and client requirements are met. He has an imposing and strong research background in the IT field and certainly can get my full recommendation.",
+        "user": "Maulesh Kanani || Co-Founder at Sanatan Tech Innovations"
+      },
+      {
+        "text": "I am teaching aptitude and Placement training to Joyal Shah ...he is very hardworking , dedicated and sincere student...He has excellent leadership skills and able to do Teamwork... He will be the asset for the organisation...",
+        "user": "Alok Shah || Director @ Arham Education"
+      }
+    ]
+  }
+}
